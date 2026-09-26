@@ -1,0 +1,3 @@
+"""
+StockSense Inventory Management System
+"""
